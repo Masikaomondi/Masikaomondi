@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Masikaomondi
+- 👋 Hi, I’m Masika Omondi
 - 👀 I’m interested in ...Full Stack Software Development C Python UX UI Design and Cyber Security.
-- 🌱 I’m currently learning ...Fullstack Software Development i.e HTML,CSS,JSS,REACT and Ruby on Rails.
+- 🌱 I’m currently learning ...Fullstack Software Development i.e HTML, CSS, JS, REACTJs and Ruby on Rails.
 - 💞️ I’m looking to collaborate on ...Open Source Software Development Projects
-- 📫 How to reach me ...Let us On Social Platforms 
+- 📫 How to reach me ...Interact wih me on these Social Platforms. 
 - LinkedIn Masika Omondi.
 - Twitter @MasikaOmondi.
 - Instagram Masika Omondi.
